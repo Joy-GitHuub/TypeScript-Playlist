@@ -1,0 +1,15 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "- Global: npm install -g typescript\r - Local: npm i -save-dev typescript\r - Check installed or not: tsc --version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
