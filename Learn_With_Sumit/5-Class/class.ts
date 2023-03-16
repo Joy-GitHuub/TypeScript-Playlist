@@ -3,7 +3,7 @@
 class User{
     // Properties, methods, constructor
     private userName: string;
-    userAge: number;
+    protected userAge: number;
     constructor(name: string, age:number) {
         this.userName = name;
         this.userAge = age;
